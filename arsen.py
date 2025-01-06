@@ -10,4 +10,4 @@ if a == "Nursultan":
     print("molodes")
 
 else:
-    print("loh")
+    print("aaa")
